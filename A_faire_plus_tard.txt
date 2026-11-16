@@ -1,0 +1,23 @@
+Les discontinuités ne sont pas sur des pixels, elles sont fondamentalement ENTRE les pixels
+
+
+-Trouver un programme qui rasterize, calculer des différences et faire des test avec plusieurs paramètres
+
+
+Modifications par rapport au papier de recherche (Image Vectorization Via Gradient Reconstruction):
+
+Lors de la construction de la partition, lors de la construction du graphe G, 
+ajout d'un faction 0.01 pour ne pas obtenir des poids trop faible ~ 0
+
+Algorithme de Dinic alors qu'on sais même pas ce qu'eux ont fait à la place pour résoudre min-cut
+
+
+
+
+
+
+
+
+
+
+
